@@ -1,0 +1,10 @@
+c:\users\btorre1549\documents\visual studio 2015\Projects\Mirrortest\Mirrortest\bin\Debug\Mirrortest.exe.config
+c:\users\btorre1549\documents\visual studio 2015\Projects\Mirrortest\Mirrortest\bin\Debug\Mirrortest.exe
+c:\users\btorre1549\documents\visual studio 2015\Projects\Mirrortest\Mirrortest\bin\Debug\Mirrortest.pdb
+c:\users\btorre1549\documents\visual studio 2015\Projects\Mirrortest\Mirrortest\bin\Debug\Mirrortest.xml
+c:\users\btorre1549\documents\visual studio 2015\Projects\Mirrortest\Mirrortest\obj\Debug\Mirrortest.vbprojResolveAssemblyReference.cache
+c:\users\btorre1549\documents\visual studio 2015\Projects\Mirrortest\Mirrortest\obj\Debug\Mirrortest.Resources.resources
+c:\users\btorre1549\documents\visual studio 2015\Projects\Mirrortest\Mirrortest\obj\Debug\Mirrortest.vbproj.GenerateResource.Cache
+c:\users\btorre1549\documents\visual studio 2015\Projects\Mirrortest\Mirrortest\obj\Debug\Mirrortest.exe
+c:\users\btorre1549\documents\visual studio 2015\Projects\Mirrortest\Mirrortest\obj\Debug\Mirrortest.xml
+c:\users\btorre1549\documents\visual studio 2015\Projects\Mirrortest\Mirrortest\obj\Debug\Mirrortest.pdb
