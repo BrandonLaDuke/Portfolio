@@ -8,3 +8,7 @@ c:\users\btorre1549\documents\visual studio 2015\Projects\Mirrortest\Mirrortest\
 c:\users\btorre1549\documents\visual studio 2015\Projects\Mirrortest\Mirrortest\obj\Debug\Mirrortest.exe
 c:\users\btorre1549\documents\visual studio 2015\Projects\Mirrortest\Mirrortest\obj\Debug\Mirrortest.xml
 c:\users\btorre1549\documents\visual studio 2015\Projects\Mirrortest\Mirrortest\obj\Debug\Mirrortest.pdb
+C:\Users\Brandon\Documents\GitHub\Portfolio\Mirrortest\bin\Debug\Mirrortest.exe.config
+C:\Users\Brandon\Documents\GitHub\Portfolio\Mirrortest\obj\Debug\Mirrortest.exe
+C:\Users\Brandon\Documents\GitHub\Portfolio\Mirrortest\obj\Debug\Mirrortest.xml
+C:\Users\Brandon\Documents\GitHub\Portfolio\Mirrortest\obj\Debug\Mirrortest.pdb
