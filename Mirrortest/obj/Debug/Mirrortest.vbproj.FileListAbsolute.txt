@@ -12,3 +12,9 @@ C:\Users\Brandon\Documents\GitHub\Portfolio\Mirrortest\bin\Debug\Mirrortest.exe.
 C:\Users\Brandon\Documents\GitHub\Portfolio\Mirrortest\obj\Debug\Mirrortest.exe
 C:\Users\Brandon\Documents\GitHub\Portfolio\Mirrortest\obj\Debug\Mirrortest.xml
 C:\Users\Brandon\Documents\GitHub\Portfolio\Mirrortest\obj\Debug\Mirrortest.pdb
+C:\Users\Brandon\Documents\GitHub\Portfolio\Mirrortest\bin\Debug\Mirrortest.exe
+C:\Users\Brandon\Documents\GitHub\Portfolio\Mirrortest\bin\Debug\Mirrortest.pdb
+C:\Users\Brandon\Documents\GitHub\Portfolio\Mirrortest\bin\Debug\Mirrortest.xml
+C:\Users\Brandon\Documents\GitHub\Portfolio\Mirrortest\obj\Debug\Mirrortest.vbprojResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\GitHub\Portfolio\Mirrortest\obj\Debug\Mirrortest.Resources.resources
+C:\Users\Brandon\Documents\GitHub\Portfolio\Mirrortest\obj\Debug\Mirrortest.vbproj.GenerateResource.Cache
